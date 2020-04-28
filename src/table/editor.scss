@@ -1,0 +1,19 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+// .air-table th,
+// .air-table td {
+//   padding: 0;
+// }
+
+.air-table table {
+  table-layout: fixed;
+}
+
+.air-table table p {
+  margin-bottom: 0;
+}
